@@ -1,8 +1,13 @@
 ### Hello there 👋
-🥋 Currently learning Kotlin.
-🚀 Mostly use React, TypeScript, Next, TailwindCSS and the usual suspects.
-📱 Mobile-first, always.
-📊 Love a bit of data viz.
+<ul>
+  <li>🥋 Currently learning Kotlin.</li>
+  <li>📱 Mobile-first, always.</li>
+  <li>📊 Love a bit of data viz.</li>
+  <li>🚀 Mostly use React, TypeScript, Next, TailwindCSS and the usual suspects.</li>
+</ul>
+
+
+
 
 
 <p align="center">
