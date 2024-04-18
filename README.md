@@ -1,4 +1,10 @@
 ### Hello there 👋
+🥋 Currently learning Kotlin.
+🚀 Mostly use React, TypeScript, Next, TailwindCSS and the usual suspects.
+📱 Mobile-first, always.
+📊 Love a bit of data viz.
+
+
 <p align="center">
 <img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif?cid=ecf05e47mh1cey2wvwklmvxypq1kwg0doejfhumtyrj5l89p&rid=giphy.gif&ct=g" height="100" width="auto"/>
 </p>
