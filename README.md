@@ -3,7 +3,7 @@
   <li>🥋 Currently learning Kotlin.</li>
   <li>📱 Mobile-first, always.</li>
   <li>📊 Love a bit of data viz.</li>
-  <li>🚀 Mostly use React, TypeScript, Next, TailwindCSS and the usual suspects.</li>
+  <li>🚀 Daily use of React, TypeScript, Next, TailwindCSS, API integrations and the usual suspects.</li>
 </ul>
 
 
