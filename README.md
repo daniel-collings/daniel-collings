@@ -1,8 +1,7 @@
 ### Hello there 👋
 <ul>
-  <li>🥋 Currently learning Kotlin.</li>
   <li>📱 Mobile-first, always.</li>
-  <li>📊 Love a bit of data viz.</li>
+  <li>📊 Dev with an eye for design and data visualisation.</li>
   <li>🚀 Daily use of React, TypeScript, Next, TailwindCSS, API integrations and the usual suspects.</li>
 </ul>
 
