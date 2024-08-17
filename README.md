@@ -1,17 +1,8 @@
-### Hello there 👋
-<ul>
-  <li>📱 Mobile-first, always.</li>
-  <li>📊 Dev with an eye for design and data visualisation.</li>
-  <li>🚀 Daily use of React, TypeScript, Next, TailwindCSS, API integrations and the usual suspects.</li>
-</ul>
+# 👋
 
-
-
-
-
-<p align="center">
-<img src="https://media2.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif?cid=ecf05e47mh1cey2wvwklmvxypq1kwg0doejfhumtyrj5l89p&rid=giphy.gif&ct=g" height="100" width="auto"/>
-</p>
+<div align="center">
+  <img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif" height="auto" width="50%" alt="General Kenobi, 'Hello There'"/>
+</div>
 <!--
 **daniel-collings/daniel-collings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
